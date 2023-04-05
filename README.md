@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del Módulo dos del PrepCourse de Henry Mora
+Mina Mora
+Este proyecto es una prueba de como crear un repositorio y descargarlo a mi computadora
